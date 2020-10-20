@@ -62,7 +62,7 @@ Ex: https://github.com/kellerv1
 
 Imagem com tabela em Markdown:
 
-![tabela markdown](https://user-images.githubusercontent.com/73145036/96637909-bd785700-12f5-11eb-9144-53955af1581c.jpg)
+![tabela](https://user-images.githubusercontent.com/73145036/96645960-beaf8100-1301-11eb-9eb5-b3dfb814f6d7.png)
 
 Tabela: 
 
