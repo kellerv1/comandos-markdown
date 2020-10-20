@@ -37,7 +37,7 @@ Lista de Tarefas:
 - [ ] Para finalizar uma tarefa devemos substituir o espaço [ ] por um x [x] assim irá ficar com símbolo de finalizado como na tarefa acima. 
 
 ### Adicionando imagens
-Para adicionar imagem devemos arrastar a mesma para a linha de **Attach files by dragging & dropping, selecting or pasting them** ou selecionar de dentro do computador clicando ali. 
+Para adicionar imagem devemos arrastar a mesma para a linha de **Attach files by dragging & dropping, selecting or pasting them** ou selecionar de dentro do computador clicando ali (funciona em issues/replies e saved replies). 
 
 Ao soltar a imagem ela fará um upload e após isto o que estiver dentro dos ![] será o nome da imagem que pode ser modificada antes de ser postada, o que fica entre ( ) é o link onde a imagem ficou armazenada. 
 
