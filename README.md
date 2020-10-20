@@ -85,5 +85,5 @@ Ex:
 
 Acho que sim! 
 
-Você pode ver todos comandos usados para montar este guia clonando meu repositorio! 
+**Você pode ver todos comandos usados para montar este guia clonando meu repositorio!**
 
