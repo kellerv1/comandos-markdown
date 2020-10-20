@@ -79,6 +79,7 @@ Ex: @kellerv1
 ### Quote
 
 Quotes servem para marcar textos e frases para respondes as mesmas e para criar um quote usamos > 
+
 Ex: 
 > Será que aprendi lendo a este pequeno manual de comandos? 
 
